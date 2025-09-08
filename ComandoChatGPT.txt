@@ -1,7 +1,8 @@
-Olá! Estou desenvolvendo um código em C# que gera números aleatórios, mas percebi que os resultados não são realmente imprevisíveis quando executo o programa várias vezes. Gostaria que você me explicasse:
+Estou desenvolvendo um código em C# que gera números aleatórios, mas percebi que os resultados não são realmente imprevisíveis quando executo o programa várias vezes. Gostaria que você me explicasse:
 
 Por que os números gerados podem não ser realmente aleatórios em execuções diferentes do programa;
 
 Quais são as boas práticas para melhorar a geração de números aleatórios em C#;
+
 
 Se possível, mostre exemplos de código alternativos que aumentem a imprevisibilidade, considerando tanto casos simples quanto situações em que eu precise de mais segurança (como criptografia).
